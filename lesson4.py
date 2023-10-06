@@ -4,7 +4,7 @@ count_products = int(input("Введите количество товаров: 
 count_packages = int(input("Введите количество пакетов: "))
 summa = price*count_products + count_packages
 discount = 0
-print("ООО Супер магазин")
+print("ООО FoxPrice")
 print("КАССОВЫЙ ЧЕК")
 print(f"Кассир: {cashier_name}")
 print("=====================")
