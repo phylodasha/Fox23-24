@@ -1,4 +1,5 @@
-for letter in range(101, 100, -1): print(letter)
+for letter in range(101, 100, -1): 
+    print(letter)
 
 
 # for i in range(10): # i = 5
